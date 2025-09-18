@@ -1,4 +1,5 @@
-A Tale of Two Coasts: Unveiling U.S. Gulf and Atlantic Coastal Cities at High Flood Risk
+##A Tale of Two Coasts: Unveiling U.S. Gulf and Atlantic Coastal Cities at High Flood Risk##
+
 Dataset DOI: 10.5061/dryad.bzkh189q7
 Description of the data and file structure
 This study develops a data-driven framework of flood risk modelling to unveil flood-prone cities, estimate exposed population, and identify underlying factors of flood risk under two scenarios: General Flood Damage (GFD) and Extreme Flood Damage (EFD) along the U.S. Gulf and Atlantic Coast (USGAC). You will find all associated data and codes used in this study.
